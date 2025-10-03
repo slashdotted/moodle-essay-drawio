@@ -1,6 +1,6 @@
 # moodle-essay-drawio
 
-This script replaces the standard text editor in a Moodle essay question with an embedded draw.io diagram editor. It was inspired by [moodle-essay-ace](https://github.com/detiuaveiro/moodle-ts). 
+This script replaces the standard text editor in a Moodle essay question with an embedded draw.io diagram editor. It was inspired by [moodle-essay-ace](https://github.com/detiuaveiro/moodle-essay-ace). 
 
 ## Description
 In quizzes where students are required to draw diagrams, instructors often resort to paper-based submissions or ask students to upload diagram files. Reviewing these can be time-consuming, especially during large exams. This script streamlines the process by embedding a diagram editor directly into the Moodle quiz interface, allowing students to draw and submit diagrams without leaving the page.
